@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://anasmunawar.live/](https://anasmunawar.live/)
+- 👨‍💻 All of my projects are available at [https://anasmunawar.netlify.app/](https://anasmunawar.netlify.app/)
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next and Node Js**
 
